@@ -1,0 +1,80 @@
+{
+  "graphics_cards": [
+    {
+      "name": "3090",
+      "price": 1499
+    },
+    {
+      "name": "3080",
+      "price": 699
+    },
+    {
+      "name": "3070",
+      "price": 499
+    },
+    {
+      "name": "3060",
+      "price": 329
+    },
+    {
+      "name": "3050",
+      "price": 249
+    },
+    {
+      "name": "2080",
+      "price": 699
+    },
+    {
+      "name": "2070",
+      "price": 499
+    },
+    {
+      "name": "2060",
+      "price": 349
+    },
+    {
+      "name": "1080",
+      "price": 599
+    },
+    {
+      "name": "1070",
+      "price": 379
+    },
+    {
+      "name": "1060",
+      "price": 299
+    },
+    {
+      "name": "1050",
+      "price": 109
+    },
+    {
+      "name": "1030",
+      "price": 79
+    },
+    {
+      "name": "6900 XT",
+      "price": 999
+    },
+    {
+      "name": "6900XT",
+      "price": 999
+    },
+    {
+      "name": "RX 6800 XT",
+      "price": 649
+    },
+    {
+      "name": "RX6800XT",
+      "price": 649
+    },
+    {
+      "name": "RX 6800",
+      "price": 579
+    },
+    {
+      "name": "RX6800",
+      "price": 579
+    }
+  ]
+}
