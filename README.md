@@ -1,2 +1,2 @@
 # GPU-Bot
-A bot for finding affordable GPUs. This bot can check APIs of online stores such as Amazon and Walmart to find Graphics cards that are within a reasonable price range and notify you over discord. You can control it via commands in a discord server.
+A bot for finding affordable GPUs. This bot can check APIs of online stores such as Amazon and Walmart to find Graphics cards that are within a reasonable price range and notify you over discord. You can control it via commands in a discord server. The prices.json file contains MSRP values for all GPUs that the bot should look for, which the bot uses to determine wether the GPU is a good deal or not.
